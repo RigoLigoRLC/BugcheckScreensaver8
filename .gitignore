@@ -1,0 +1,8 @@
+.vs
+build*/
+out
+x64
+x86
+*.vcxproj.filters
+*.vcxproj.user
+*.aps
